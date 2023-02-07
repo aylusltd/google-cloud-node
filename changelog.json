@@ -5,6 +5,40 @@
       "changes": [
         {
           "type": "feat",
+          "sha": "54b124cde2b5ee3c624f8c74d76b4dfb0a1dbb86",
+          "message": "Add initial files for google.maps.mapsplatformdatasets.v1alpha",
+          "issues": [
+            "3924"
+          ]
+        }
+      ],
+      "version": "0.1.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/maps-platform-datasets",
+      "id": "ce85bd49-1879-4c55-9563-1eb93b1066f9",
+      "createTime": "2023-02-07T00:55:20.350Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "48763577ffe3a47a445c3c3f53a4801049f5d217",
+          "message": "[gkemulticloud] Added support for Azure workload identity federation",
+          "issues": [
+            "3925"
+          ]
+        }
+      ],
+      "version": "0.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gkemulticloud",
+      "id": "7593e859-8f39-4e8e-aa91-433e181e7709",
+      "createTime": "2023-02-07T00:55:20.348Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
           "sha": "772f591c2ada4aec8d17a50c97f7a6be8240bb07",
           "message": "Add initial files for google.cloud.datacatalog.lineage.v1",
           "issues": [
@@ -1734,5 +1768,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2023-02-02T01:26:10.067Z"
+  "updateTime": "2023-02-07T00:55:20.350Z"
 }
